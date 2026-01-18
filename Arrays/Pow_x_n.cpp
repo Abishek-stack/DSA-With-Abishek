@@ -53,4 +53,4 @@ int main() {
 
     cout << "Result: " << obj.myPow(x, n) << endl;
     return 0;
-} ready?
+} 
