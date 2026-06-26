@@ -34,4 +34,12 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
