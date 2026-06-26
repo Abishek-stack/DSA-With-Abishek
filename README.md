@@ -26,6 +26,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,24 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
