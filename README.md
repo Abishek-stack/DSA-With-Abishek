@@ -26,6 +26,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -36,6 +37,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Math
 |  |
 | ------- |
@@ -69,4 +71,8 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
