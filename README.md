@@ -3,6 +3,13 @@
 This repository contains my daily practice of Data Structures and Algorithms using C++.  
 I am using this repo to prepare for coding interviews and campus placements.
 
+## Goals
+
+- Solve 300+ LeetCode problems
+- Master core DSA topics
+- Maintain consistent daily practice
+- Prepare for software engineering interviews
+  
 ## Topics Covered
 - Arrays
 - Linked List
