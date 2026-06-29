@@ -34,6 +34,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0135-candy) |
+| [1470-shuffle-the-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
