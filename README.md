@@ -114,4 +114,24 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Depth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0743-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0743-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
