@@ -123,16 +123,19 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0743-network-delay-time) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0743-network-delay-time) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0743-network-delay-time) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
@@ -151,6 +154,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
