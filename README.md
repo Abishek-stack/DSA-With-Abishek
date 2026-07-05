@@ -35,6 +35,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0209-minimum-size-subarray-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1301-number-of-paths-with-max-score) |
 | [1470-shuffle-the-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1929-concatenation-of-array) |
@@ -159,11 +160,13 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
