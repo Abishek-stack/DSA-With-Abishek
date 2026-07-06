@@ -35,6 +35,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0209-minimum-size-subarray-sum) |
+| [1288-remove-covered-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1301-number-of-paths-with-max-score) |
 | [1470-shuffle-the-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -53,6 +54,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Math
 |  |
