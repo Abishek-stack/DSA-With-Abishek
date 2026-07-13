@@ -32,6 +32,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0209-minimum-size-subarray-sum) |
@@ -80,6 +81,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
