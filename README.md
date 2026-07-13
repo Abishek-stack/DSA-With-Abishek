@@ -39,6 +39,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1301-number-of-paths-with-max-score) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1929-concatenation-of-array) |
@@ -61,6 +62,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1288-remove-covered-intervals) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
@@ -80,6 +82,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -203,4 +206,8 @@ This repository will be updated regularly as I continue my DSA journey.
 | ------- |
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
