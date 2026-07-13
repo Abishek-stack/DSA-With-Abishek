@@ -41,6 +41,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [1288-remove-covered-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1301-number-of-paths-with-max-score) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1929-concatenation-of-array) |
@@ -127,6 +128,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -212,4 +214,8 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
