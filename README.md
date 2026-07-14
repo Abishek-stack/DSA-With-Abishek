@@ -33,6 +33,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
@@ -60,11 +61,13 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
