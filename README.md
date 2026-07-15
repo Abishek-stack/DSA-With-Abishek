@@ -80,6 +80,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | ------- |
 | [0050-powx-n](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -237,4 +238,5 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
