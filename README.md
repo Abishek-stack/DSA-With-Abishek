@@ -78,6 +78,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3658-gcd-of-odd-and-even-sums) |
