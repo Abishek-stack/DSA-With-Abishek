@@ -41,6 +41,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0209-minimum-size-subarray-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1288-remove-covered-intervals) |
@@ -82,6 +83,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0009-palindrome-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0204-count-primes) |
+| [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -89,6 +91,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +218,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3620-network-recovery-pathways) |
@@ -241,4 +245,8 @@ This repository will be updated regularly as I continue my DSA journey.
 | ------- |
 | [0204-count-primes](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
