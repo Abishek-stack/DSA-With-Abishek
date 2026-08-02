@@ -44,6 +44,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1301-number-of-paths-with-max-score) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -84,6 +85,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0050-powx-n](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -219,6 +221,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3620-network-recovery-pathways) |
@@ -249,4 +252,5 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
