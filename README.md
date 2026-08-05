@@ -179,6 +179,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [1971-find-if-path-exists-in-graph](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -188,6 +189,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [2685-count-the-number-of-complete-components](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
@@ -196,6 +198,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3620-network-recovery-pathways) |
