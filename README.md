@@ -34,6 +34,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | ------- |
 | [0001-two-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
@@ -73,6 +74,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
@@ -291,4 +293,8 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
