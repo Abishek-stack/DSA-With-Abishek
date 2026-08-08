@@ -43,6 +43,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0485-max-consecutive-ones](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1288-remove-covered-intervals) |
@@ -75,6 +76,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
 | [1288-remove-covered-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -108,6 +110,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -150,6 +153,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -207,6 +211,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0743-network-delay-time) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -253,6 +258,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
+| [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
@@ -277,4 +283,12 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1406-stone-game-iii) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
