@@ -69,6 +69,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | ------- |
 | [0015-3sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0125-valid-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -155,6 +156,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0125-valid-palindrome](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0125-valid-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
