@@ -103,6 +103,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
@@ -305,4 +306,8 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
