@@ -155,6 +155,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0125-valid-palindrome](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0125-valid-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
@@ -267,6 +268,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0020-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1441-build-an-array-with-stack-operations) |
 ## Number Theory
 |  |
@@ -299,4 +301,8 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
