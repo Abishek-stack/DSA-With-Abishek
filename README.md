@@ -35,6 +35,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0001-two-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
@@ -172,6 +173,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -240,6 +242,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0074-search-a-2d-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3286-find-a-safe-walk-through-a-grid) |
