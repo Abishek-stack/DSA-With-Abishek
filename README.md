@@ -41,6 +41,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0209-minimum-size-subarray-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
@@ -81,6 +82,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0056-merge-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
 | [1288-remove-covered-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1288-remove-covered-intervals) |
@@ -115,6 +117,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
@@ -129,6 +132,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -222,6 +226,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0743-network-delay-time) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -270,6 +275,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
@@ -303,6 +309,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
 ## Quicksort
 |  |
@@ -317,4 +324,8 @@ This repository will be updated regularly as I continue my DSA journey.
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0876-middle-of-the-linked-list) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
