@@ -171,6 +171,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -194,6 +195,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Depth-First Search
 |  |
 | ------- |
