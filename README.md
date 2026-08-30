@@ -39,6 +39,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
@@ -261,6 +262,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0032-longest-valid-parentheses) |
+| [0198-house-robber](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1301-number-of-paths-with-max-score) |
