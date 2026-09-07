@@ -290,6 +290,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0032-longest-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0232-implement-queue-using-stacks) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1441-build-an-array-with-stack-operations) |
 ## Number Theory
 |  |
@@ -337,4 +338,12 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
