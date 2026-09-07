@@ -42,6 +42,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0198-house-robber](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0485-max-consecutive-ones) |
@@ -83,6 +84,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0056-merge-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
@@ -134,6 +136,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -232,6 +235,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0743-network-delay-time) |
@@ -338,6 +342,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
