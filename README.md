@@ -137,6 +137,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -282,6 +283,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0190-reverse-bits) |
 | [0645-set-mismatch](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0645-set-mismatch) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
