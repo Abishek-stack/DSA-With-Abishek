@@ -33,6 +33,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0074-search-a-2d-matrix) |
@@ -72,6 +73,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0125-valid-palindrome) |
@@ -164,6 +166,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0135-candy) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3534-path-existence-queries-in-a-graph-ii) |
