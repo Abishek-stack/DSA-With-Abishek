@@ -75,6 +75,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0876-middle-of-the-linked-list) |
@@ -175,6 +176,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0125-valid-palindrome) |
@@ -366,4 +368,20 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0102-binary-tree-level-order-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
