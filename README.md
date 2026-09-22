@@ -33,6 +33,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0056-merge-intervals) |
@@ -139,6 +140,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0215-kth-largest-element-in-an-array) |
@@ -193,6 +195,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0704-binary-search) |
