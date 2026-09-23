@@ -102,6 +102,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | ------- |
 | [0007-reverse-integer](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
@@ -124,6 +125,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | ------- |
 | [0001-two-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0347-top-k-frequent-elements) |
@@ -177,6 +179,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0030-substring-with-concatenation-of-all-words) |
