@@ -223,6 +223,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0101-symmetric-tree) |
 | [0743-network-delay-time](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -231,6 +232,7 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0102-binary-tree-level-order-traversal) |
 | [0743-network-delay-time](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1971-find-if-path-exists-in-graph) |
@@ -378,10 +380,12 @@ This repository will be updated regularly as I continue my DSA journey.
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0102-binary-tree-level-order-traversal) |
 ## String Matching
 |  |
