@@ -70,6 +70,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3620-network-recovery-pathways](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3620-network-recovery-pathways) |
 | [3731-find-missing-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -99,6 +100,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -141,6 +143,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
