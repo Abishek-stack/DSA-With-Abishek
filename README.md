@@ -60,6 +60,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [1406-stone-game-iii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1470-shuffle-the-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1882-process-tasks-using-servers](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1929-concatenation-of-array) |
@@ -114,6 +115,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0486-predict-the-winner](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -168,6 +170,7 @@ This repository will be updated regularly as I continue my DSA journey.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0209-minimum-size-subarray-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
@@ -299,6 +302,7 @@ This repository will be updated regularly as I continue my DSA journey.
 | [0877-stone-game](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Abishek-stack/DSA-With-Abishek/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
